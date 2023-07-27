@@ -6,4 +6,4 @@
 
 ## OUTPUT LIKE THIS
 
-![Alt text](<EventAMP output.png>)
+![OUTPUT](<EventAMP output.png>)
